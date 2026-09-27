@@ -144,6 +144,13 @@ Use the collected information to determine where the bottleneck is located:
 
 If the tests indicate a possible hardware problem, use the [hardware diagnostics guide](/pages/bare_metal_cloud/dedicated_servers/hardware-diagnose) to perform additional tests in rescue mode.
 
+## About the contributor
+
+This guide was contributed by **David B**, a Linux server administrator specializing in server management, troubleshooting, and infrastructure support.
+
+For Linux server management services, see [iServerSupport](https://iserversupport.com/linux-server-management/).
+
+
 ## Go further
 
 [Hardware Diagnostics in Rescue Mode on a Dedicated Server](/pages/bare_metal_cloud/dedicated_servers/hardware-diagnose)
